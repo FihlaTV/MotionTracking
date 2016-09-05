@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ardx.cpp" />
+    <ClCompile Include="arengine.cpp" />
+    <ClCompile Include="arutil.cpp" />
+    <ClCompile Include="qrcode.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="qrmap.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="arengine.h" />
+    <ClInclude Include="arutil.h" />
+    <ClInclude Include="qrcode.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="qrmap.h" />
+  </ItemGroup>
+</Project>
